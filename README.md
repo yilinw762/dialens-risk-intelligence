@@ -1,6 +1,6 @@
 # Dialens Risk Intelligence
 
-![Website Screenshot](./DiaLensDashBoard.png) 
+![Website Screenshot](./Images/DialensDashBoard.png) 
 
 ---
 
