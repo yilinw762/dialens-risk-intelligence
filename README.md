@@ -20,7 +20,7 @@
 - **Personalized Health Advice:**  
   Get tailored recommendations based on your risk profile and health data.
   ![Response Generation Screenshot](./Images/GetPred.png)
-  ![Response Result Screenshot](./Images/Response.png)
+  ![Response Result Screenshot][def]
 - **Interactive Dashboard:**  
   Visualize your risk, BMI, and other health metrics in an intuitive interface.
 
@@ -94,3 +94,6 @@
    npm start
    The app will be available at http://localhost:3000.
 
+
+
+[def]: ./Images/Response.png
