@@ -14,12 +14,13 @@
 
 - **Diabetes Risk Prediction:**  
   Enter your health indicators and receive an instant, AI-driven diabetes risk score.
-  ![Form Screenshot](./Form1.png) 
-  ![Form Screenshot](./Form2.png)
+  ![Form Screenshot](./Images/Form1.png) 
+  ![Form Screenshot](./Images/Form2.png)
 
 - **Personalized Health Advice:**  
   Get tailored recommendations based on your risk profile and health data.
-
+  ![Response Generation Screenshot](./Images/GetPred.png)
+  ![Response Result Screenshot](./Images/AI Response.png)
 - **Interactive Dashboard:**  
   Visualize your risk, BMI, and other health metrics in an intuitive interface.
 
