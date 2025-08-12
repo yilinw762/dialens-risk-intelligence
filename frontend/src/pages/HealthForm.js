@@ -54,8 +54,10 @@ export default function HealthForm() {
   const handleAskAdvice = async () => {
     setLoadingAdvice(true);
     try {
-      const prompt = `My diabetes risk is ${(result * 100).toFixed(2)}%. My info: ${JSON.stringify(form)}. What should I do to improve my health?`;
-      const res = await axios.post('http://localhost:8000/api/advice/', { prompt });
+      const res = await axios.post('http://localhost:8000/api/advice/', {
+        form,
+        probability: result
+      });
       setAdvice(res.data.advice);
     } catch (err) {
       setAdvice('Error getting advice.');
