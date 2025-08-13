@@ -211,7 +211,7 @@ export default function HealthForm() {
           </div>
           {advice && (
             <div className="mt-2 p-2 bg-purple-100 rounded text-purple-900">
-              <strong>AI Advice:</strong> {advice}
+              <strong>DiaLens AI Personalized Advice:</strong> {advice}
             </div>
           )}
         </div>
