@@ -20,7 +20,8 @@
 - **Personalized Health Advice:**  
   Get tailored recommendations based on your risk profile and health data.
   ![Response Generation Screenshot](./Images/GetPred.png)
-  ![Response Screenshot](./Images/Response.png)
+  ![Response Screenshot](./Images/Response1.png)
+  ![Response Screenshot](./Images/Response2.png)
 - **Interactive Dashboard:**  
   Visualize your risk, BMI, and other health metrics in an intuitive interface.
 
